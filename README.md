@@ -1,3 +1,9 @@
+Forked from yurkovskiy/eSchool for testing purpose
+credentials for vagrant usage:
+database ip: 192.168.33.101
+username:username
+password:passwordQ1@
+
 # eSchool
 
 **eSchool** is a school management web application based on Spring Boot and developed as graduation project at SoftServe IT Academy.
