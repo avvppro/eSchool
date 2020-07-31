@@ -1,8 +1,8 @@
 Forked from yurkovskiy/eSchool for testing purpose
-credentials for vagrant usage:
-database ip: 192.168.33.101
-username:username
-password:passwordQ1@
+#credentials for vagrant usage:
+* database ip: 192.168.33.101
+* username:username
+* password:passwordQ1@
 
 # eSchool
 
