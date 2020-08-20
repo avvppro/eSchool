@@ -99,5 +99,5 @@ Windows:
 Linux:
 ```
 ./mvnw spring-boot:run
-```    okay
+```    
 3. To access application home page open [localhost:8080](http://localhost:8080/)
